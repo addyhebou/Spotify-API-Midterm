@@ -1,0 +1,10 @@
+Redirect URI http://localhost:8888/callback
+Client ID 6ecb464bd17a444a89c1882b6682ae2e
+Client Secret d8c60849ed3b49ecb3f059749f8c5328
+
+
+To run both servers, 
+1) localhost:3000 = npm start under Client
+2) localhost:8888 = node authorization_code/app.js
+
+left of on youtube video 18:48

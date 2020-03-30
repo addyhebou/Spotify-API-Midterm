@@ -1,0 +1,83 @@
+.albumArt{
+  margin: 0px 30px;
+}
+.albumArt img{
+  height: 500px;
+}
+
+.App {
+  background-position: 50% 50%;
+  background-repeat: none;
+  background-color: rgba(255, 255, 255, 0.1);
+  background-blend-mode: lighten;
+  background-size: cover;
+  display: flex;
+  padding: 120px 30px;
+  text-align: center;
+  transition: all 0.5s;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+button{
+  background-color: white;
+  border: none;
+  color: black;
+  font-size: 20px;
+  margin: 15px;
+  padding: 30px;
+}
+
+button:hover{
+  background-color: #1DB954;
+  border: none;
+  color: white;
+  margin: 15px;
+  transform: scale(0.9);
+}
+
+.content{
+  background-color:rgba(255, 255, 255, 0.5);
+  color: black;
+  margin: 0px 30px;
+}
+
+h1{
+  font-size: 60px;
+}
+
+
