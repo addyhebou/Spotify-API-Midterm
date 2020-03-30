@@ -1,11 +1,6 @@
 # Spotify-API-Midterm
 This Spotify API allows you to sign into your Spotify account and display a player of what you are currently playing.
 
-Use two sources of data
-Display the two sources of data in the same UI
-Have the UI be interactive
-Have the UI change based on the data
-Have the site styled
 
 1) The Spotify API is extracting all of its data from the JSON file that Spotify provides for each current song. Additionally, the equalizer Gif is a downloaded animation to contribute to mood.
 
