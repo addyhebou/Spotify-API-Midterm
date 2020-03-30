@@ -7,7 +7,9 @@ Have the UI be interactive
 Have the UI change based on the data
 Have the site styled
 
-1 and 2) The Spotify API is extracting all of its data from the JSON file that Spotify provides for each current song. Additionally, the equalizer Gif is a downloaded animation to contribute to mood. All data is shown on the main client page.
+1) The Spotify API is extracting all of its data from the JSON file that Spotify provides for each current song. Additionally, the equalizer Gif is a downloaded animation to contribute to mood.
+
+2) All data is shown on the main client page.
 
 3) The UI allows users to login to Spotify and authorize the account to display data. Additionally, the app allows users to refresh the player to update the current song.
 
